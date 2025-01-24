@@ -1,0 +1,16 @@
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+-----------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version      : Vivado v.2020.2 (lin64) Build 3064766 Wed Nov 18 09:12:47 MST 2020
+| Date              : Wed May 22 23:17:12 2024
+| Host              : ee25 running 64-bit CentOS Linux release 7.9.2009 (Core)
+| Command           : report_bus_skew -warn_on_violation -file LED_bus_skew_routed.rpt -pb LED_bus_skew_routed.pb -rpx LED_bus_skew_routed.rpx
+| Design            : LED
+| Device            : xczu5eg-sfvc784
+| Speed File        : -1  PRODUCTION 1.29 08-03-2020
+| Temperature Grade : E
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+Bus Skew Report
+
+No bus skew constraints
+
