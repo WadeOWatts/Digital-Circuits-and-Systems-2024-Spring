@@ -28,22 +28,22 @@ Kun-Chih (Jimmy) Chen 陳坤志
 - Evaluate digital systems using Platform Architect.  
 
 ## Schedule
-| Week | Date       | Topic                                   | Submission   |
-|------|------------|-----------------------------------------|--------------|
-| 1    | 2/20, 22   | Introduction and syllabus              | -            |
-| 2    | 2/27, 29   | Basic SystemC                          | -            |
-| 3    | 3/5, 7     | SystemC: Module description            | -            |
-| 4    | 3/12, 14   | SystemC: Interface and channel         | HW#1         |
-| 5    | 3/19, 21   | Verilog-HDL: Verilog Overview          | -            |
-| 6    | 3/26, 28   | Verilog-HDL: Combinational Logic       | HW#1         |
-| 7    | 4/2, 4/4   | Verilog-HDL: Sequential Logic (Spring Break on 4/4) | HW#2 |
-| 8    | 4/9, 11    | Midterm Exam                           | -            |
-| 9    | 4/16, 18   | Verilog-HDL: Testbench                 | HW#2         |
-| 10   | 4/23, 25   | Synthesis and Gate-level Simulation    | -            |
-| 11   | 4/30, 5/2  | Synthesis and Gate-level Simulation    | HW#3         |
-| 12   | 5/7, 9     | Single-cycle and Pipeline MIPS Processor | -          |
-| 13   | 5/14, 16   | MIPS Processor & Static Timing Analysis | HW#3, HW#4  |
-| 14   | 5/21, 23   | FPGA Verification (Lab)                | Final Project|
-| 15   | 5/28, 30   | Final Exam                             | HW#4         |
-| 16   | 6/4, 6     | Online Test                            | -            |
-| 17   | -          | Final Report/Submission                | -            |
+| Week | Date       | Topic                                   |
+|------|------------|-----------------------------------------|
+| 1    | 2/20, 22   | Introduction and syllabus              |
+| 2    | 2/27, 29   | Basic SystemC                          |
+| 3    | 3/5, 7     | SystemC: Module description            | 
+| 4    | 3/12, 14   | SystemC: Interface and channel         |
+| 5    | 3/19, 21   | Verilog-HDL: Verilog Overview          | 
+| 6    | 3/26, 28   | Verilog-HDL: Combinational Logic       | 
+| 7    | 4/2, 4/4   | Verilog-HDL: Sequential Logic (Spring Break on 4/4) | 
+| 8    | 4/9, 11    | Midterm Exam                           | 
+| 9    | 4/16, 18   | Verilog-HDL: Testbench                 |
+| 10   | 4/23, 25   | Synthesis and Gate-level Simulation    | 
+| 11   | 4/30, 5/2  | Synthesis and Gate-level Simulation    | 
+| 12   | 5/7, 9     | Single-cycle and Pipeline MIPS Processor | 
+| 13   | 5/14, 16   | MIPS Processor & Static Timing Analysis | 
+| 14   | 5/21, 23   | FPGA Verification (Lab)                |
+| 15   | 5/28, 30   | Final Exam                             |
+| 16   | 6/4, 6     | Online Test                            | 
+| 17   | -          | Final Report/Submission                | 
